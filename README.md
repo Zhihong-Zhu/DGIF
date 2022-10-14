@@ -6,6 +6,7 @@ This repository contains the PyTorch implementation and the data of the paper:
 > **A Label-Semantic Injected Dynamic Graph Framework for Spoken Language Understanding** 
 >
 > **Zhihong Zhu**, Weiyuan Xu, Xuxin Cheng, Tengtao Song, [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN&oi=ao)
+> 
 > ***ICASSP2023 [Under review]***.
 
 ## Update
