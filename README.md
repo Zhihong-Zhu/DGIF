@@ -11,7 +11,7 @@ This repository contains the PyTorch implementation and the data of the paper:
 
 ## Update
 
-- **[13 Oct 2022]** The code will be released soon since it is currently under review.
+- **[24 Oct 2022]** The code will be released soon since it is currently under review.
 
 ## Contact us
 
