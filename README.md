@@ -9,6 +9,30 @@ This repository contains the PyTorch implementation and the data of the paper:
 > 
 > ***ICASSP2023 [Under review]***.
 
+This code has been written using PyTorch >= 1.12.0. If you use any source codes or the datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
+
+<pre>
+@article{zhu2022dgif,
+  author    = {Zhihong Zhu and
+               Weiyuan Xu and
+               Xuxin Cheng and
+               Tengtao Song and
+               Yuexian Zou},
+  title     = {A Dynamic Graph Interactive Framework with Label-Semantic Injection
+               for Spoken Language Understanding},
+  journal   = {CoRR},
+  volume    = {abs/2211.04023},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2211.04023},
+  doi       = {10.48550/arXiv.2211.04023},
+  eprinttype = {arXiv},
+  eprint    = {2211.04023},
+  timestamp = {Wed, 09 Nov 2022 17:33:26 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2211-04023.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+</pre>
+
 ## Update
 
 - **[24 Oct 2022]** The code will be released soon since it is currently under review.
