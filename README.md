@@ -7,7 +7,7 @@ This repository contains the PyTorch implementation and the data of the paper:
 >
 > Zhihong Zhu, Weiyuan Xu, Xuxin Cheng, Tengtao Song, [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN&oi=ao)
 > 
-> ***ICASSP2023 [Under review]***.
+> ***ICASSP2023***.
 
 This code has been written using PyTorch >= 1.12.0. If you use any source codes or the datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
 
@@ -34,7 +34,7 @@ This code has been written using PyTorch >= 1.12.0. If you use any source codes 
 </pre>
 
 ## Update
-
+- **[16 Feb 2023]** Our paper was accepted for presentation at ICASSP 2023.
 - **[24 Oct 2022]** The code will be released soon since it is currently under review.
 
 ## Abstract
